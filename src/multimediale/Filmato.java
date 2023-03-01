@@ -8,6 +8,6 @@ package multimediale;
  *
  * @author fury
  */
-public class Filmato {
-    
+public class Filmato extends Multimediale {
+        
 }
